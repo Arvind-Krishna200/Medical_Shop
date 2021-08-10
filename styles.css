@@ -1,0 +1,102 @@
+body {
+    font-family: 'Montserrat-black', sans-serif;
+}
+h1 {
+    font-family: 'Montserrat-black', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+h3 {
+    font-family: "Montserrat-bold";
+    font-size: 1.5rem;
+}
+h6 {
+    color:#fff;
+    margin: 10px;
+}
+p {
+    color: #8f8f8f;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+    margin: 10px 20px;
+    font-family: "Montserrat-black";
+}
+@media(max-width:1200px)
+{
+    body{
+    text-align: center;
+    }
+}
+#title {
+    background-color: #C2F784;
+    color: #fff;
+}
+
+.container-fluid {
+    padding: 7% 15%;
+}
+.at {
+    width: 20px;
+    height: 20px;
+}
+.logo {
+    height: 50px;
+    width: 50px;
+}
+.hair-dryer {
+    margin: 10px;
+    padding: 20px;
+    height: 80%;
+    width: 80%;
+    transform: rotate(30deg);
+}
+.navbar {
+    margin-bottom: 4.5rem;
+    padding: 0 2px;
+}
+.nav-item {
+     padding: 0 10px;
+}
+#navlink {
+    color: #fff;
+}
+
+#features {
+    padding: 7% 15%;
+}
+.about {
+    padding: 10%;
+    text-align:center ;
+}
+.about-img {
+    padding: 10px;
+    height: 70%;
+    width: 70%;
+}
+.bottom-container {
+    
+    margin: 0;
+    
+}
+#contact {
+    background-color:#C2F784;
+    text-align:center;
+    padding: 7% 15%;
+   
+}
+.soc {
+    height: 30px;
+    width: 30px;
+    margin: 2px;
+}
+
+#feedbacks {
+    background-color: #C2F784;
+    text-align: center;
+}
+
+
+
+
